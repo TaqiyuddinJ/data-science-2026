@@ -45,7 +45,7 @@ Beberapa berkas tambahan disertakan sebagai bagian dari proses analisis:
 | Berkas | Keterangan | Digunakan di |
 | :--- | :--- | :---: |
 | [`housing_dirty.csv`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/housing_dirty.csv) | Dataset housing mentah sebelum proses pembersihan data | Pertemuan 3 |
-| `housing_clean.csv` | Dataset housing setelah proses pembersihan *(belum disertakan dalam commit)* | Pertemuan 3 |
+| [`housing_clean.csv`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/housing_clean.csv) | Dataset housing setelah proses pembersihan | Pertemuan 3 |
 
 ### Output Visual
 
