@@ -36,7 +36,26 @@ Tujuan saya mempelajari Data Science adalah untuk menguasai kemampuan berpikir k
 
 ---
 
-## 4. Tools dan Library yang Digunakan
+## 4. Berkas Pendukung
+
+Beberapa berkas tambahan disertakan sebagai bagian dari proses analisis:
+
+### Dataset
+
+| Berkas | Keterangan | Digunakan di |
+| :--- | :--- | :---: |
+| [`housing_dirty.csv`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/housing_dirty.csv) | Dataset housing mentah sebelum proses pembersihan data | Pertemuan 3 |
+| `housing_clean.csv` | Dataset housing setelah proses pembersihan *(belum disertakan dalam commit)* | Pertemuan 3 |
+
+### Output Visual
+
+| Berkas | Keterangan | Dihasilkan di |
+| :--- | :--- | :---: |
+| [`dashboard_penguins.png`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/dashboard_penguins.png) | Dashboard visualisasi dataset Penguins | Pertemuan 5 |
+
+---
+
+## 5. Tools dan Library yang Digunakan
 
 Seluruh notebook dibangun menggunakan ekosistem **Python** dengan library berikut:
 
@@ -48,7 +67,7 @@ Seluruh notebook dibangun menggunakan ekosistem **Python** dengan library beriku
 
 ---
 
-## 5. Cara Menjalankan Notebook
+## 6. Cara Menjalankan Notebook
 
 Semua notebook dikerjakan dan dijalankan menggunakan **Google Colaboratory (Colab)**, sesuai arahan perkuliahan.
 
@@ -67,6 +86,6 @@ Cukup memiliki akun Google yang aktif — tidak diperlukan instalasi apa pun kar
 
 ---
 
-## 6. Kesimpulan Umum Perjalanan Belajar (Pertemuan 1–7)
+## 7. Kesimpulan Umum Perjalanan Belajar (Pertemuan 1–7)
 
 Melalui rangkaian praktikum dari Pertemuan 1 hingga Pertemuan 7, saya memperoleh pemahaman tentang alur kerja dasar seorang Data Scientist. Proses ini melatih kemampuan analisis data, penanganan pra-pemrosesan, hingga penyusunan model prediktif dasar menggunakan Python. Pengalaman ini memberikan fondasi untuk melangkah ke materi tingkat lanjut, sekaligus membangun kebiasaan dokumentasi dan berpikir sistematis berbasis data.
