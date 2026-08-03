@@ -53,8 +53,8 @@ Beberapa berkas tambahan disertakan sebagai bagian dari proses analisis:
 | Berkas | Keterangan | Dihasilkan di |
 | :--- | :--- | :---: |
 | [`dashboard_penguins.png`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/dashboard_penguins.png) | Dashboard visualisasi dataset Penguins | Pertemuan 5 |
-| [`heatmap_breast_cancer.png`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/heatmap_breast_cancer.png) | Visualisai Heatmap Confusion Matrix data breast cancer | Pertemuan 9 |
 | [`decision_tree_klasifikasi_breast_cancer.png`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/decision_tree_klasifikasi_breast_cancer.png) | Hasil latih decision tree data breast cancer | Pertemuan 9 |
+| [`heatmap_breast_cancer.png`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/heatmap_breast_cancer.png) | Visualisai Heatmap Confusion Matrix data breast cancer | Pertemuan 9 |
 
 ---
 
