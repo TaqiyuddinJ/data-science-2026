@@ -18,7 +18,7 @@
 
 Halo! Saya **Taqiyuddin Ja'far**, mahasiswa PJJ Informatika di Universitas Siber Asia. Repository ini adalah portofolio digital yang merekam perjalanan belajar saya dalam mata kuliah **Data Science** semester genap 2025/2026.
 
-Tujuan saya mempelajari Data Science adalah untuk menguasai kemampuan berpikir kritis berbasis data, memahami pola analitis, serta mampu menyajikan solusi prediktif yang relevan terhadap permasalahan industri. Di sini Anda akan menemukan rangkaian Jupyter Notebook hasil aktivitas *hands-on* dari Pertemuan 1 hingga Pertemuan 7. Setiap notebook mencerminkan tahapan proses berpikir saya, mulai dari pemahaman konsep dasar, iterasi eksperimen kode, hingga penyusunan kesimpulan akhir.
+Tujuan saya mempelajari Data Science adalah untuk menguasai kemampuan berpikir kritis berbasis data, memahami pola analitis, serta mampu menyajikan solusi prediktif yang relevan terhadap permasalahan industri. Di sini Anda akan menemukan rangkaian Jupyter Notebook hasil aktivitas *hands-on* dari Pertemuan 1 hingga Pertemuan 13. Setiap notebook mencerminkan tahapan proses berpikir saya, mulai dari pemahaman konsep dasar, iterasi eksperimen kode, hingga penyusunan kesimpulan akhir.
 
 ---
 
@@ -33,6 +33,7 @@ Tujuan saya mempelajari Data Science adalah untuk menguasai kemampuan berpikir k
 | **Pertemuan 5** | Visualisasi Data | [Notebook](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Pertemuan5_Taqiyuddin_Ja'far_250401020186.ipynb) |
 | **Pertemuan 6** | Persiapan Data | [Notebook](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Pertemuan6_Taqiyuddin_Ja'far_250401020186.ipynb) |
 | **Pertemuan 7** | Pengantar Machine Learning: Regresi Linear | [Notebook](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Pertemuan7_Taqiyuddin_Ja'far_250401020186.ipynb) |
+| **Pertemuan 9** | Algoritma Klasifikasi (Bagian 1) |[Notebook](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Pertemuan9_Taqiyuddin_Ja'far_250401020186.ipynb)|
 
 ---
 
