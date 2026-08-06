@@ -36,6 +36,8 @@ Tujuan saya mempelajari Data Science adalah untuk menguasai kemampuan berpikir k
 | **Pertemuan 9** | Algoritma Klasifikasi (Bagian 1) | [Notebook](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Pertemuan9_Taqiyuddin_Ja'far_250401020186.ipynb) |
 | **Pertemuan 10** | Algoritma Klasifikasi (Bagian 2) | [Notebook](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Pertemuan10_Taqiyuddin_Ja'far_250401020186.ipynb) |
 | **Pertemuan 11** | Unsupervised Learning (Clustering) | [Notebook](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Pertemuan11_Taqiyuddin_Ja'far_250401020186.ipynb) |
+| **Pertemuan 12** | Asosiasi Data & Sistem Rekomendasi Dasar | [Notebook](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Pertemuan12_Taqiyuddin_Ja'far_250401020186.ipynb) |
+| **Pertemuan 13** | Pengantar Deep Learning & NLP Dasar | [Notebook](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Pertemuan13_Taqiyuddin_Ja'far_250401020186.ipynb) |
 
 ---
 
@@ -49,6 +51,7 @@ Beberapa berkas tambahan disertakan sebagai bagian dari proses analisis:
 | :--- | :--- | :---: |
 | [`housing_dirty.csv`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/housing_dirty.csv) | Dataset housing mentah sebelum proses pembersihan data | Pertemuan 3 |
 | [`housing_clean.csv`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/housing_clean.csv) | Dataset housing setelah proses pembersihan | Pertemuan 3 |
+| [`Telco-Customer-Churn.csv`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Telco-Customer-Churn.csv) | Dataset Telco customer churn | Pertemuan 10 |
 
 ### Output Visual
 
@@ -57,6 +60,15 @@ Beberapa berkas tambahan disertakan sebagai bagian dari proses analisis:
 | [`dashboard_penguins.png`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/dashboard_penguins.png) | Dashboard visualisasi dataset Penguins | Pertemuan 5 |
 | [`decision_tree_klasifikasi_breast_cancer.png`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/decision_tree_klasifikasi_breast_cancer.png) | Hasil latih decision tree data breast cancer | Pertemuan 9 |
 | [`heatmap_breast_cancer.png`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/heatmap_breast_cancer.png) | Visualisai Heatmap Confusion Matrix data breast cancer | Pertemuan 9 |
+| [`heatmap_customer_churn.png`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/heatmap_customer_churn.png) | Visualisasi heatmap customer churn | Pertemuan 10 |
+| [`scatterplot-pendapatan-skor-belanja.png`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/scatterplot-pendapatan-skor-belanja.png) | Scatterplot Sebaran pendapatan vs skor belanja | Pertemuan 11 |
+| [`elbow-method_segmentasi-pelanggan.png`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/elbow-method_segmentasi-pelanggan.png) | Elbow Method -- Segmentasi Pelanggan | Pertemuan 11 |
+| [`clustering-pelanggan-pendapatan-skor.png`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/clustering-pelanggan-pendapatan-skor.png) | Hasil Clustering pelanggan (pendapatan vs skor belanja) | Pertemuan 11 |
+| [`dendogram-segmentasi-pelanggan-ward-linkage.png`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/dendogram-segmentasi-pelanggan-ward-linkage.png) | Dendogram segmentasi pelanggan (Ward Linkage) | Pertemuan 11 |
+| [`scatterplot_make_moons.png`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/scatterplot_make_moons.png) | Scatterplot dataset Make Moon | Pertemuan 13 |
+| [`kurva_pembelajaran_model.png`](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/kurva_pembelajaran_model.png) | Kurva Pembelajaran Model | Pertemuan 13 |
+
+
 
 ---
 
