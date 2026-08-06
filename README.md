@@ -74,13 +74,19 @@ Beberapa berkas tambahan disertakan sebagai bagian dari proses analisis:
 
 ## 5. Tools dan Library yang Digunakan
 
-Seluruh notebook dibangun menggunakan ekosistem **Python** dengan library berikut:
+Seluruh notebook dibangun menggunakan ekosistem **Python 3** yang dijalankan di **Google Colaboratory**, dengan library berikut:
 
-- **Pandas** — manipulasi dan analisis data tabular
-- **NumPy** — komputasi numerik dan operasi array
-- **Matplotlib** — visualisasi grafik dan plot dasar
-- **Seaborn** — visualisasi data statistik yang lebih interaktif
-- **Scikit-Learn (sklearn)** — pemodelan machine learning
+| Library | Kegunaan | Dipakai di |
+| --- | --- | --- |
+| **Pandas** | Manipulasi, pembersihan, dan analisis data tabular (DataFrame) | Pertemuan 2–7 |
+| **NumPy** | Komputasi numerik dan operasi array/matriks | Pertemuan 2, 4, 5, 7 |
+| **Matplotlib** (`pyplot`, `gridspec`) | Visualisasi grafik dan penyusunan layout plot | Pertemuan 4, 5, 6, 7 |
+| **Seaborn** | Visualisasi data statistik (heatmap, distplot, dsb.) | Pertemuan 4, 5, 6, 7 |
+| **SciPy** (`scipy.stats`, `scipy.stats.mstats`) | Uji statistik dan winsorizing untuk penanganan outlier | Pertemuan 3, 4 |
+| **Requests** | Mengambil data dari REST API eksternal (JSONPlaceholder) | Pertemuan 3 |
+| **Scikit-Learn** (`model_selection`, `preprocessing`, `linear_model`, `metrics`) | Split data train/test, standarisasi fitur, pemodelan Regresi Linear, dan evaluasi (MAE, RMSE, R²) | Pertemuan 6, 7 |
+
+> Catatan: seluruh library di atas sudah tersedia secara *pre-installed* di lingkungan Google Colab, sehingga tidak diperlukan instalasi manual tambahan.
 
 ---
 
@@ -99,10 +105,10 @@ Semua notebook dikerjakan dan dijalankan menggunakan **Google Colaboratory (Cola
 
 ### Prasyarat
 
-Cukup memiliki akun Google yang aktif — tidak diperlukan instalasi apa pun karena Colab sudah menyediakan semua library yang dibutuhkan secara *pre-installed*.
+Cukup memiliki akun Google yang aktif — tidak diperlukan instalasi apa pun karena Colab sudah menyediakan semua library yang dibutuhkan secara *pre-installed*. Notebook Pertemuan 3 memerlukan koneksi internet aktif karena mengakses API eksternal (`jsonplaceholder.typicode.com`).
 
 ---
 
-## 7. Kesimpulan Umum Perjalanan Belajar (Pertemuan 1–7)
+## 7. Kesimpulan Umum Perjalanan Belajar 
 
-Melalui rangkaian praktikum dari Pertemuan 1 hingga Pertemuan 7, saya memperoleh pemahaman tentang alur kerja dasar seorang Data Scientist. Proses ini melatih kemampuan analisis data, penanganan pra-pemrosesan, hingga penyusunan model prediktif dasar menggunakan Python. Pengalaman ini memberikan fondasi untuk melangkah ke materi tingkat lanjut, sekaligus membangun kebiasaan dokumentasi dan berpikir sistematis berbasis data.
+Melalui rangkaian praktikum dari Pertemuan 1 hingga Pertemuan 13, saya memperoleh pemahaman tentang alur kerja dasar seorang Data Scientist. Proses ini melatih kemampuan analisis data, penanganan pra-pemrosesan, hingga penyusunan model prediktif dasar menggunakan Python. Lebih lanjut lagi seperti klasifikasi, clustering, asosiasi data & sistem rekomendasi dasar hingga Deep Learning serta NLP dasar. Pengalaman ini memberikan fondasi untuk melangkah ke materi tingkat lanjut, sekaligus membangun kebiasaan dokumentasi dan berpikir sistematis berbasis data.
