@@ -33,7 +33,9 @@ Tujuan saya mempelajari Data Science adalah untuk menguasai kemampuan berpikir k
 | **Pertemuan 5** | Visualisasi Data | [Notebook](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Pertemuan5_Taqiyuddin_Ja'far_250401020186.ipynb) |
 | **Pertemuan 6** | Persiapan Data | [Notebook](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Pertemuan6_Taqiyuddin_Ja'far_250401020186.ipynb) |
 | **Pertemuan 7** | Pengantar Machine Learning: Regresi Linear | [Notebook](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Pertemuan7_Taqiyuddin_Ja'far_250401020186.ipynb) |
-| **Pertemuan 9** | Algoritma Klasifikasi (Bagian 1) |[Notebook](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Pertemuan9_Taqiyuddin_Ja'far_250401020186.ipynb)|
+| **Pertemuan 9** | Algoritma Klasifikasi (Bagian 1) | [Notebook](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Pertemuan9_Taqiyuddin_Ja'far_250401020186.ipynb) |
+| **Pertemuan 10** | Algoritma Klasifikasi (Bagian 2) | [Notebook](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Pertemuan10_Taqiyuddin_Ja'far_250401020186.ipynb) |
+| **Pertemuan 11** | Unsupervised Learning (Clustering) | [Notebook](https://github.com/TaqiyuddinJ/data-science-2026/blob/main/Pertemuan11_Taqiyuddin_Ja'far_250401020186.ipynb) |
 
 ---
 
